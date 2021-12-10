@@ -1,6 +1,6 @@
 {
 	"name": "@tamutamu/tamura-lib",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
@@ -8,7 +8,7 @@
 	},
 	"publishConfig": {
 		"access": "restricted",
-		"registry":"https://npm.pkg.github.com"
+		"registry": "https://npm.pkg.github.com"
 	},
 	"keywords": [],
 	"author": "",
