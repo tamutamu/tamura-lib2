@@ -1,6 +1,6 @@
 {
 	"name": "@tamutamu/tamura-lib1",
-	"version": "1.0.22-6000000000000000000000000000000000000000000000000",
+	"version": "1.0.22",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
