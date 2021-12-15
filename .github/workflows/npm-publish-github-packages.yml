@@ -21,7 +21,6 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
-          scope: '@tamutamu'
       - run: npm ci
       - run: git config --global user.name 'test'
       - run: git config --global user.email '<>'
