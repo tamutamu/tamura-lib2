@@ -26,6 +26,6 @@ jobs:
       - run: git config user.name 'test' && git config user.email '<>'
       - run: npm version prerelease
       - run: npm publish
-      - run: git push
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - run: git push
