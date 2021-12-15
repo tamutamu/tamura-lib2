@@ -21,6 +21,7 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
+          scope: '@tamutamu'
       - run: npm ci
       - run: git config user.name 'test' && git config user.email '<>'
       - run: npm version prerelease
