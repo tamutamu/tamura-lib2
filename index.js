@@ -1,5 +1,5 @@
 console.log("tamura-lib");
 
 module.exports.test1 = () => {
-  console.log("test1.0.8 test22");
+  console.log("test1.0.8 test22ddd");
 }
